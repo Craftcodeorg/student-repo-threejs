@@ -1,0 +1,2 @@
+Project Description:
+Develop an interactive web-based platform that visualizes global news in real-time using Three.js. The platform should integrate multiple real-time news sources via APIs, allowing users to explore news stories on an interactive globe. The application should include features such as filtering news by category, visualizing trends over time, and providing detailed views of individual stories. Incorporate advanced Three.js techniques, including custom shaders and dynamic animations, to enhance user engagement and provide an immersive experience.
