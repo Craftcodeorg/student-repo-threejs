@@ -1,0 +1,9 @@
+three==0.143.0
+express==4.17.1 (for setting up a backend server)
+socket.io==4.1.3 (for WebSocket communication)
+axios==0.21.1 (for API requests)
+d3==6.7.0 (for data manipulation)
+dotenv==10.0.0 (for environment variable management)
+node-fetch==2.6.1 (for server-side API requests)
+body-parser==1.19.0 (for handling JSON requests)
+cors==2.8.5 (for handling cross-origin requests)
